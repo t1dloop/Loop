@@ -1,7 +1,7 @@
-github "LoopKit/LoopKit" "remote-overrides"
-github "LoopKit/CGMBLEKit" "remote-overrides"
+github "t1dloop/LoopKit" "hondo"
+github "t1dloop/CGMBLEKit" "hondo"
 github "i-schuetz/SwiftCharts" == 0.6.5
-github "LoopKit/dexcom-share-client-swift" "remote-overrides"
-github "LoopKit/G4ShareSpy" "remote-overrides"
-github "ps2/rileylink_ios" "remote-overrides"
+github "t1dloop/dexcom-share-client-swift" "hondo"
+github "t1dloop/G4ShareSpy" "hondo"
+github "t1dloop/rileylink_ios" "hondo"
 github "LoopKit/Amplitude-iOS" "decreepify"
