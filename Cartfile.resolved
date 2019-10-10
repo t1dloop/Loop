@@ -5,4 +5,5 @@ github "t1dloop/CGMBLEKit" "0b3ffc4a441050a0bc432332c98aebe61d567b48"
 github "t1dloop/G4ShareSpy" "4f4596fb5f05780c3acc7308c12d3776eaebb94e"
 github "t1dloop/LoopKit" "89c4e5fc94f2de713743aabbaaa23ec0c1d49b92"
 github "t1dloop/dexcom-share-client-swift" "badff68a5bcd922a75fe7abb628dc6da07c9a606"
-github "t1dloop/rileylink_ios" "71fb19e9cfebe653af28c96845dd53c8869cfa0b"
+github "t1dloop/rileylink_ios" "0ca9b9bb277f9b278dcb8af0f22fefb7441bd6b0"
+
