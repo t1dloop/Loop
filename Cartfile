@@ -1,7 +1,7 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/CGMBLEKit" "dev"
+github "t1dloop/LoopKit" "microboluses"
+github "t1dloop/CGMBLEKit" "microboluses"
 github "i-schuetz/SwiftCharts" == 0.6.5
-github "LoopKit/dexcom-share-client-swift" "dev"
-github "LoopKit/G4ShareSpy" "dev"
-github "ps2/rileylink_ios" "dev"
+github "t1dloop/dexcom-share-client-swift" "microboluses"
+github "t1dloop/G4ShareSpy" "microboluses"
+github "t1dloop/rileylink_ios" "microboluses"
 github "LoopKit/Amplitude-iOS" "decreepify"
